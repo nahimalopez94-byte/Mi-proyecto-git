@@ -1,2 +1,10 @@
 # Mi-proyecto-git
-Nahima Anyoleth López López 
+git init
+git add.Nombre nahima anyoleth lopez lopez
+ingeneria sistemas 
+17 
+04-004-2026
+ser una excelente ingeniera 
+
+
+
